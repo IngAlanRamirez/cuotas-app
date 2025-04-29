@@ -1,0 +1,7 @@
+{
+  "name": "cuotas-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
